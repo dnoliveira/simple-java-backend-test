@@ -1,6 +1,3 @@
-# simple-java-backend-test
-Simple Java Backend Test
-
 # Simple Java Backend Test
 
 ## Descrição:
